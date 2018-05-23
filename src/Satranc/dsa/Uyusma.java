@@ -1,6 +1,6 @@
 package Satranc.dsa;
 
-public enum Uyuşma {
+public enum Uyusma {
 	Kahverengi {
 		@Override
 		public boolean renk() {
