@@ -1,9 +1,5 @@
 public class Main{
-
 public static void main(String[]args){
-
-	System.out.println("NAG›HAN...");
+	System.out.println("NAG√ùHAN...");
 }
-
-
 }
