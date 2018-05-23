@@ -1,0 +1,1 @@
+# satranc_oyunu
